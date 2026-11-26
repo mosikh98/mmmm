@@ -1,0 +1,4 @@
+This copy does not contact https://github.com/mlmvpn/mlmvpn_android for app updates or the store channel.
+UpdateChecker.checkForUpdate reports up to date and does not download.
+StoreChannel.refresh does not fetch the signed channel.
+The rest of the tree is the 1.2.49 source you supplied. It is not a built APK.
